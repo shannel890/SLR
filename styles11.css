@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    font-size: 3em;
+    color: sienna;
+    background-color: deepskyblue;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-color: cornsilk
+}
+ul{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+}
+ul li{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    
+}
