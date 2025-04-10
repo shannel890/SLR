@@ -19,6 +19,8 @@
 #     return result
 # print(fibonacci(10))
 
-nums = lambda x,y:max(x,y)
-print(nums(4,5))
+# nums = lambda x,y:max(x,y)
+# print(nums(4,5))
+
+print(2 ** 3)
     
