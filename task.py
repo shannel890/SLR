@@ -22,5 +22,13 @@
 # nums = lambda x,y:max(x,y)
 # print(nums(4,5))
 
-print(2 ** 3)
-    
+# print(2 ** 3)
+# def gen():
+#     yield 1
+#     yield 2
+# g = gen()
+# print(next(g))
+# print(next(g))
+
+nums = [x for x in range(5) if x % 2 == 0]
+print(nums)
